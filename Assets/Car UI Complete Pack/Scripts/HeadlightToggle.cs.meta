@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6e8d586e755b90d4c95de3fe90b48412
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316903
+  packageName: Car UI Complete Pack
+  packageVersion: 1.0.0
+  assetPath: Assets/Car UI Complete Pack/Scripts/HeadlightToggle.cs
+  uploadId: 748116

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8c9c0eaee5ef43e459dfc3c46255ce79
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276757
+  packageName: City Car Driving Simulator
+  packageVersion: 3.35
+  assetPath: Assets/CCDS/Realistic Traffic Controller/Prefabs/RTC_TrafficSpawner.prefab
+  uploadId: 742001

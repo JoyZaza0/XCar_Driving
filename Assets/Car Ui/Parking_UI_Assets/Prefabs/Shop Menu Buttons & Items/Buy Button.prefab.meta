@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a85a880d688d4ad45806345820356ddf
+timeCreated: 1489009940
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84230
+  packageName: Car Racing & Parking Ultra UI Kit
+  packageVersion: 1.3
+  assetPath: Assets/Prefabs/Shop Menu Buttons & Items/Buy Button.prefab
+  uploadId: 189754

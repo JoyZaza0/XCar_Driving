@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: 1af8e6c24737bd84d891719c70ab21ca
+timeCreated: 1488409745
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: body
+    100004: bull bars
+    100006: Caliper FL
+    100008: Caliper FR
+    100010: Caliper RL
+    100012: Caliper RR
+    100014: cargo boxes
+    100016: cargo boxes2
+    100018: cargo boxes3
+    100020: driver
+    100022: interior
+    100024: jerry cans
+    100026: ladder
+    100028: LED lights
+    100030: mud flaps
+    100032: offroad lights
+    100034: rear bumper guard
+    100036: rear light guards
+    100038: roof rack
+    100040: skidplate
+    100042: snorkle
+    100044: spare tire
+    100046: steering wheel
+    100048: step bars
+    100050: suspension
+    100052: tools
+    100054: tow hitch
+    100056: Whl HD FL
+    100058: Whl HD FR
+    100060: Whl HD RL
+    100062: Whl HD RR
+    100064: winch
+    100066: wipers
+    400000: //RootNode
+    400002: body
+    400004: bull bars
+    400006: Caliper FL
+    400008: Caliper FR
+    400010: Caliper RL
+    400012: Caliper RR
+    400014: cargo boxes
+    400016: cargo boxes2
+    400018: cargo boxes3
+    400020: driver
+    400022: interior
+    400024: jerry cans
+    400026: ladder
+    400028: LED lights
+    400030: mud flaps
+    400032: offroad lights
+    400034: rear bumper guard
+    400036: rear light guards
+    400038: roof rack
+    400040: skidplate
+    400042: snorkle
+    400044: spare tire
+    400046: steering wheel
+    400048: step bars
+    400050: suspension
+    400052: tools
+    400054: tow hitch
+    400056: Whl HD FL
+    400058: Whl HD FR
+    400060: Whl HD RL
+    400062: Whl HD RR
+    400064: winch
+    400066: wipers
+    2300000: body
+    2300002: bull bars
+    2300004: Caliper FL
+    2300006: Caliper FR
+    2300008: Caliper RL
+    2300010: Caliper RR
+    2300012: cargo boxes
+    2300014: cargo boxes2
+    2300016: cargo boxes3
+    2300018: driver
+    2300020: interior
+    2300022: jerry cans
+    2300024: ladder
+    2300026: LED lights
+    2300028: mud flaps
+    2300030: offroad lights
+    2300032: rear bumper guard
+    2300034: rear light guards
+    2300036: roof rack
+    2300038: skidplate
+    2300040: snorkle
+    2300042: spare tire
+    2300044: steering wheel
+    2300046: step bars
+    2300048: suspension
+    2300050: tools
+    2300052: tow hitch
+    2300054: Whl HD FL
+    2300056: Whl HD FR
+    2300058: Whl HD RL
+    2300060: Whl HD RR
+    2300062: winch
+    2300064: wipers
+    3300000: body
+    3300002: bull bars
+    3300004: Caliper FL
+    3300006: Caliper FR
+    3300008: Caliper RL
+    3300010: Caliper RR
+    3300012: cargo boxes
+    3300014: cargo boxes2
+    3300016: cargo boxes3
+    3300018: driver
+    3300020: interior
+    3300022: jerry cans
+    3300024: ladder
+    3300026: LED lights
+    3300028: mud flaps
+    3300030: offroad lights
+    3300032: rear bumper guard
+    3300034: rear light guards
+    3300036: roof rack
+    3300038: skidplate
+    3300040: snorkle
+    3300042: spare tire
+    3300044: steering wheel
+    3300046: step bars
+    3300048: suspension
+    3300050: tools
+    3300052: tow hitch
+    3300054: Whl HD FL
+    3300056: Whl HD FR
+    3300058: Whl HD RL
+    3300060: Whl HD RR
+    3300062: winch
+    3300064: wipers
+    4300000: body
+    4300002: step bars
+    4300004: bull bars
+    4300006: offroad lights
+    4300008: winch
+    4300010: skidplate
+    4300012: interior
+    4300014: driver
+    4300016: steering wheel
+    4300018: roof rack
+    4300020: ladder
+    4300022: snorkle
+    4300024: rear light guards
+    4300026: tow hitch
+    4300028: rear bumper guard
+    4300030: wipers
+    4300032: spare tire
+    4300034: LED lights
+    4300036: suspension
+    4300038: jerry cans
+    4300040: tools
+    4300042: mud flaps
+    4300044: cargo boxes
+    4300046: cargo boxes2
+    4300048: cargo boxes3
+    4300050: Caliper FL
+    4300052: Whl HD FL
+    4300054: Caliper RL
+    4300056: Whl HD RL
+    4300058: Caliper RR
+    4300060: Whl HD RR
+    4300062: Caliper FR
+    4300064: Whl HD FR
+    7400000: modo_Anim
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

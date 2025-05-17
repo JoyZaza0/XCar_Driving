@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3e45fdc99efd68845b0750f02927a9f7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316903
+  packageName: Car UI Complete Pack
+  packageVersion: 1.0.0
+  assetPath: Assets/Car UI Complete Pack/Scripts/SpeedometerGPS.cs
+  uploadId: 748116

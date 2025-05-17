@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2fc927d5f539dff41849b6c7e133c0ab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276757
+  packageName: City Car Driving Simulator
+  packageVersion: 3.35
+  assetPath: Assets/Prefabs/Prefabs/Missions/Free/CCDS_Mission_FreeRoam.prefab
+  uploadId: 742001

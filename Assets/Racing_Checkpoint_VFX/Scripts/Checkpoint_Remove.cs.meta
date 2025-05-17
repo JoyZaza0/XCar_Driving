@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8ba6deec62ddd0749a3dab26a7a5ddf0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272135
+  packageName: Racing Checkpoint VFX
+  packageVersion: 1.0
+  assetPath: Assets/Racing_Checkpoint_VFX/Scripts/Checkpoint_Remove.cs
+  uploadId: 631949

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3ce230d7fbc42c743b44283fc6d0229f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316903
+  packageName: Car UI Complete Pack
+  packageVersion: 1.0.0
+  assetPath: Assets/Car UI Complete Pack/Prefabs/Control/Turn_Left.prefab
+  uploadId: 748116

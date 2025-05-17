@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 952129e0f2048534c9b4a09fa8895ab5
+timeCreated: 1489000720
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84230
+  packageName: Car Racing & Parking Ultra UI Kit
+  packageVersion: 1.3
+  assetPath: Assets/Prefabs/Game-In Buttons/Retry Button.prefab
+  uploadId: 189754

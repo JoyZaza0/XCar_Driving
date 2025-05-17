@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 11b6e38b4ba075849a6fbd0688580ad0
+timeCreated: 1515178028
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109023
+  packageName: Modern City Package
+  packageVersion: 1.0
+  assetPath: Assets/Pack/Shader/Night Building.shader
+  uploadId: 223552

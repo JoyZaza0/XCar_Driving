@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4871bad73c3bb3a4b8f045e65cd59b73
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316903
+  packageName: Car UI Complete Pack
+  packageVersion: 1.0.0
+  assetPath: Assets/Car UI Complete Pack/Scripts/SeatBelt.cs
+  uploadId: 748116

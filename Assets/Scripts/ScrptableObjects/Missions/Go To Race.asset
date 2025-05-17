@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fd518fc613c268459cf0118242280b4, type: 3}
+  m_Name: Go To Race
+  m_EditorClassIdentifier: 
+  missionName: Go To Race
+  description: bla bla bla
+  startDialogue: {fileID: 11400000, guid: 71cfe2d54337a8b4aa8d0a8e456d9171, type: 2}
+  inProgressDialogue: {fileID: 11400000, guid: 3b6643ac0a31c50488473323053472d7, type: 2}
+  completeDialogue: {fileID: 11400000, guid: d7c09708be176e44b843823ce66cf9f6, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9562253eaa63e1144ad94497fc984fba, type: 3}
+  m_Name: Take_Car_Start
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: Mia
+    text: Hi Player, you've finally arrived. I thought you'd changed your mind. My
+      name is Leah. Welcome to Driving City, a city where asphalt doesn't forgive
+      mistakes, and victories are worth more than gold.
+  - speaker: Mia
+    text: Get in the car, I'll show you how it all works. The first race is already
+      waiting, and believe me, it's no walk in the park. But something tells me...
+      you're not one to brake abruptly.

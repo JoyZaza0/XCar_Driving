@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eabc56fe1a1d2114db2ebf25bedabe5e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272135
+  packageName: Racing Checkpoint VFX
+  packageVersion: 1.0
+  assetPath: Assets/Racing_Checkpoint_VFX/FBX/Materials/Arch_Glow_mtl.mat
+  uploadId: 631949

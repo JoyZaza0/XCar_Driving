@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b86a229ce6142064b836d17489f58caf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276757
+  packageName: City Car Driving Simulator
+  packageVersion: 3.35
+  assetPath: Assets/Prefabs/Prefabs/Markers/CCDS_Marker_Trailblazer.prefab
+  uploadId: 742001

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e07a141997f295d4099364784bff39c3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276757
+  packageName: City Car Driving Simulator
+  packageVersion: 3.35
+  assetPath: Assets/Prefabs/Prefabs/Markers/CCDS_Marker_Pursuit.prefab
+  uploadId: 742001

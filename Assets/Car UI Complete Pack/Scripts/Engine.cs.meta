@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7a44ed6e4b250f64fb733547c9fc41df
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316903
+  packageName: Car UI Complete Pack
+  packageVersion: 1.0.0
+  assetPath: Assets/Car UI Complete Pack/Scripts/Engine.cs
+  uploadId: 748116

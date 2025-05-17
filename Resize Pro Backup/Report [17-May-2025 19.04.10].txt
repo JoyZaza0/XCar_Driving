@@ -1,0 +1,63 @@
+[1]
+Assets/Garage/Source/Materials/Car Floor.mat
+------------------------------------------------
+[old GUID: b4635614724c7df42897503ff6f2d926] Assets/Garage/Source/Textures/Car Floor.tif
+[new GUID: 0c81f61b9f0d9f441a97b0e4bc205d13] Assets/Garage/Source/Textures/Resize Pro/Car Floor.png
+ 
+
+# # #
+
+
+[2]
+Assets/Garage/Source/Materials/Garage Floor.mat
+---------------------------------------------------
+[old GUID: a11263911c44e66459fc0646a867409d] Assets/Garage/Source/Textures/Dealer Floor.tif
+[new GUID: 766a05cca236a014b90b93406a1ffe5f] Assets/Garage/Source/Textures/Resize Pro/Dealer Floor.png
+ 
+
+# # #
+
+
+[3]
+Assets/Garage/Source/Materials/Garage Main.mat
+--------------------------------------------------
+[old GUID: 12396722dcd5aec42a6224ccf8ef0edb] Assets/Garage/Source/Textures/Garage Blue.psd
+[new GUID: 7bf7ced48eb9f5945b578327282fcb63] Assets/Garage/Source/Textures/Resize Pro/Garage Blue.png
+ 
+
+# # #
+
+
+[4]
+Assets/Garage/Source/Materials/Garage Outdoor.mat
+-----------------------------------------------------
+[old GUID: 8939afe673d403145bcb2c0c09dbed06] Assets/Garage/Source/Textures/Garage Outdoor.tif
+[new GUID: 152e1f91df5d352488f0af5811b698e0] Assets/Garage/Source/Textures/Resize Pro/Garage Outdoor.png
+ 
+
+# # #
+
+
+[5]
+Assets/Garage/Source/Materials/Garage Props.mat
+---------------------------------------------------
+[old GUID: f7b9ccc0c7603ce41be7e8b7bab243df] Assets/Garage/Source/Textures/Garage Props.tif
+[new GUID: 074f6613a1383214991894488998335a] Assets/Garage/Source/Textures/Resize Pro/Garage Props.png
+ 
+[old GUID: daff2dc974a5273448a4876fcfc3f948] Assets/Garage/Source/Textures/Garage Props Glow.tif
+[new GUID: 38b81995f84f82041aae324a7e9d86d7] Assets/Garage/Source/Textures/Resize Pro/Garage Props Glow.png
+ 
+
+# # #
+
+
+[6]
+Assets/Garage/Source/Materials/Glass_rusty.mat
+--------------------------------------------------
+[old GUID: cdea6b738e8613348bd54e1adfbe0b14] Assets/Garage/Source/Textures/Window Glass.png
+[new GUID: da6c1752c428d5343be7e10a0ce7badc] Assets/Garage/Source/Textures/Resize Pro/Window Glass.png
+ 
+
+# # #
+
+

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c73681c261ef2d042bc4bd0a32310508
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276757
+  packageName: City Car Driving Simulator
+  packageVersion: 3.35
+  assetPath: Assets/IgnoreAssets/RTC/Realistic Traffic Controller/Resources/RTC_AssetPaths.asset
+  uploadId: 742001

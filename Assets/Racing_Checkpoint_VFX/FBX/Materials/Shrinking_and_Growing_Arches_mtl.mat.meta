@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fae03d1d108dc9e43943cd9411b236f3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272135
+  packageName: Racing Checkpoint VFX
+  packageVersion: 1.0
+  assetPath: Assets/Racing_Checkpoint_VFX/FBX/Materials/Shrinking_and_Growing_Arches_mtl.mat
+  uploadId: 631949

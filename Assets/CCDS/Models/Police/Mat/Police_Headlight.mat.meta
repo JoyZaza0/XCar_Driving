@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8faa71043e40b914d9ef5bc9938ab204
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276757
+  packageName: City Car Driving Simulator
+  packageVersion: 3.35
+  assetPath: Assets/CCDS/Models/Police/Mat/Police_Headlight.mat
+  uploadId: 742001

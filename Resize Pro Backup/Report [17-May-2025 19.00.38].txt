@@ -1,0 +1,154 @@
+[1]
+Assets/Ocean City- Mobile Optimized/Materials/animated_banner.mat
+---------------------------------------------------------------------
+[old GUID: 7c853ec3800b0d443a553e393e5d0759] Assets/Ocean City- Mobile Optimized/Texture/animated_banner.tif
+[new GUID: da43772014271f54b90f5084b4788fdd] Assets/Ocean City- Mobile Optimized/Texture/Resize Pro/animated_banner.png
+ 
+
+# # #
+
+
+[2]
+Assets/Ocean City- Mobile Optimized/Materials/texture_banner.mat
+--------------------------------------------------------------------
+[old GUID: c769c9f750e4e5b4b98a4191e043ebce] Assets/Ocean City- Mobile Optimized/Texture/texture_banner.tif
+[new GUID: 972a0633bc2178a46897316e21261831] Assets/Ocean City- Mobile Optimized/Texture/Resize Pro/texture_banner.png
+ 
+[old GUID: d764690dccb2a1d4097e71e9c58ffaad] Assets/Ocean City- Mobile Optimized/Texture/texture_banner_glow.tif
+[new GUID: 2842c2e275937d5428e4eb231b767f86] Assets/Ocean City- Mobile Optimized/Texture/Resize Pro/texture_banner_glow.png
+ 
+
+# # #
+
+
+[3]
+Assets/Ocean City- Mobile Optimized/Materials/texture_building.mat
+----------------------------------------------------------------------
+[old GUID: d51e6e96f6f83b4438eb7168776158ad] Assets/Ocean City- Mobile Optimized/Texture/texture_building.tif
+[new GUID: b9c7857eeaf72b64bb15df35066ff1cd] Assets/Ocean City- Mobile Optimized/Texture/Resize Pro/texture_building.png
+ 
+[old GUID: 917069c611b692b40929e0411a84e613] Assets/Ocean City- Mobile Optimized/Texture/texture_building_glow.tif
+[new GUID: 8357ccc07940bb0478873001fadfeb6f] Assets/Ocean City- Mobile Optimized/Texture/Resize Pro/texture_building_glow.png
+ 
+
+# # #
+
+
+[4]
+Assets/Ocean City- Mobile Optimized/Materials/texture_fence.mat
+-------------------------------------------------------------------
+[old GUID: 188f2a189d461c24186e947653ae538e] Assets/Ocean City- Mobile Optimized/Texture/texture_fence.tif
+[new GUID: 970288228981a844988dd8f3e67ba355] Assets/Ocean City- Mobile Optimized/Texture/Resize Pro/texture_fence.png
+ 
+
+# # #
+
+
+[5]
+Assets/Ocean City- Mobile Optimized/Materials/texture_ground.mat
+--------------------------------------------------------------------
+[old GUID: 0c5cb25342e950643972faf3b4e95004] Assets/Ocean City- Mobile Optimized/Texture/texture_ground.tif
+[new GUID: 77b9fa73b0467834fb71e58ba2141bde] Assets/Ocean City- Mobile Optimized/Texture/Resize Pro/texture_ground.png
+ 
+[old GUID: 42a16555c196f4448898a78710274aeb] Assets/Ocean City- Mobile Optimized/Texture/texture_ground_glow.tif
+[new GUID: 7ab2e765e134ebb4ba56687ee731e887] Assets/Ocean City- Mobile Optimized/Texture/Resize Pro/texture_ground_glow.png
+ 
+[old GUID: ceed9cb799ebd044595bec178afdac23] Assets/Ocean City- Mobile Optimized/Texture/texture_ground_normal.tif
+[new GUID: 8b749ea5a32ad7d46b7e66fc31c05a2b] Assets/Ocean City- Mobile Optimized/Texture/Resize Pro/texture_ground_normal.png
+ 
+
+# # #
+
+
+[6]
+Assets/Ocean City- Mobile Optimized/Materials/texture_industrial.mat
+------------------------------------------------------------------------
+[old GUID: 8b83c3addc771ad448dbda8f96081488] Assets/Ocean City- Mobile Optimized/Texture/texture_industrial.tif
+[new GUID: de2d1bfdb4fa1b54b9b35ecc9ce5b483] Assets/Ocean City- Mobile Optimized/Texture/Resize Pro/texture_industrial.png
+ 
+[old GUID: 6153f29a56d77bd478d73fcc565eb494] Assets/Ocean City- Mobile Optimized/Texture/texture_industrial_glow.tif
+[new GUID: 0e7212daf2a21cb4f91a2c525ac1c8b9] Assets/Ocean City- Mobile Optimized/Texture/Resize Pro/texture_industrial_glow.png
+ 
+
+# # #
+
+
+[7]
+Assets/Ocean City- Mobile Optimized/Materials/texture_interactable.mat
+--------------------------------------------------------------------------
+[old GUID: 88cfb12180358124f9f53431926004de] Assets/Ocean City- Mobile Optimized/Texture/texture_interactable.tif
+[new GUID: 0d60c4901b0a8ba4bb3bf3ce68b21c64] Assets/Ocean City- Mobile Optimized/Texture/Resize Pro/texture_interactable.png
+ 
+
+# # #
+
+
+[8]
+Assets/Ocean City- Mobile Optimized/Materials/texture_props.mat
+-------------------------------------------------------------------
+[old GUID: 3f9795c1c23244743966671a21e1c89d] Assets/Ocean City- Mobile Optimized/Texture/texture_props.tif
+[new GUID: 301609658eb5cce44bbded19b03b4db6] Assets/Ocean City- Mobile Optimized/Texture/Resize Pro/texture_props.png
+ 
+[old GUID: 60ce36b6e403fa8499cf90cac5443833] Assets/Ocean City- Mobile Optimized/Texture/texture_props_glow.tif
+[new GUID: f9557463dac96664f96c1de24262207b] Assets/Ocean City- Mobile Optimized/Texture/Resize Pro/texture_props_glow.png
+ 
+
+# # #
+
+
+[9]
+Assets/Ocean City- Mobile Optimized/Materials/texture_road_a.mat
+--------------------------------------------------------------------
+[old GUID: 2ebd7c36a65c75b43a43f3e9c4e3fc67] Assets/Ocean City- Mobile Optimized/Texture/texture_road_a.tif
+[new GUID: ae2f21c88fa2814489692414f9f0b831] Assets/Ocean City- Mobile Optimized/Texture/Resize Pro/texture_road_a.png
+ 
+
+# # #
+
+
+[10]
+Assets/Ocean City- Mobile Optimized/Materials/texture_road_b.mat
+--------------------------------------------------------------------
+[old GUID: 50206aa682f907742b182c89262a036c] Assets/Ocean City- Mobile Optimized/Texture/texture_road_b.tif
+[new GUID: ca60579b833c3d14aae414ce81f3901a] Assets/Ocean City- Mobile Optimized/Texture/Resize Pro/texture_road_b.png
+ 
+
+# # #
+
+
+[11]
+Assets/Ocean City- Mobile Optimized/Materials/texture_skyscapers.mat
+------------------------------------------------------------------------
+[old GUID: fc03e45622bf70f44a6c67f6001789c8] Assets/Ocean City- Mobile Optimized/Texture/texture_skyscapers.tif
+[new GUID: 9d67b5d5dc6346a48a9e4865578726a8] Assets/Ocean City- Mobile Optimized/Texture/Resize Pro/texture_skyscapers.png
+ 
+[old GUID: 537d88f43f8fd6f4c9ff92a1edb154cc] Assets/Ocean City- Mobile Optimized/Texture/texture_skyscapers_glow.tif
+[new GUID: b5667052f7befde4387bd3dce6fd4f6e] Assets/Ocean City- Mobile Optimized/Texture/Resize Pro/texture_skyscapers_glow.png
+ 
+[old GUID: 4dca10de863e8684e93ee2e8a9eb75b3] Assets/Ocean City- Mobile Optimized/Texture/texture_skyscapers_normal.tif
+[new GUID: 11f4e420bcdbe45449720b93c2701ed8] Assets/Ocean City- Mobile Optimized/Texture/Resize Pro/texture_skyscapers_normal.png
+ 
+
+# # #
+
+
+[12]
+Assets/Ocean City- Mobile Optimized/Materials/texture_terrain.mat
+---------------------------------------------------------------------
+[old GUID: 6b6476c68cf1c0a4f9eafa355374b187] Assets/Ocean City- Mobile Optimized/Texture/texture_terrain.tif
+[new GUID: 814fad610b4895e4f821175f204a44d9] Assets/Ocean City- Mobile Optimized/Texture/Resize Pro/texture_terrain.png
+ 
+
+# # #
+
+
+[13]
+Assets/Ocean City- Mobile Optimized/Materials/texture_vegetation.mat
+------------------------------------------------------------------------
+[old GUID: 46c779b85b9ae194ca4fd7ad073be381] Assets/Ocean City- Mobile Optimized/Texture/texture_vegetation.tif
+[new GUID: b6bb5b867b7c1c34ab45bc3c43be33d7] Assets/Ocean City- Mobile Optimized/Texture/Resize Pro/texture_vegetation.png
+ 
+
+# # #
+
+

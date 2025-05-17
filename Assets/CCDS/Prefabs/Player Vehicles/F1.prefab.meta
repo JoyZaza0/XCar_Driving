@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cf47158bb693f66428d753f0bc86bc72
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276757
+  packageName: City Car Driving Simulator
+  packageVersion: 3.35
+  assetPath: Assets/CCDS/Prefabs/Player Vehicles/F1.prefab
+  uploadId: 742001

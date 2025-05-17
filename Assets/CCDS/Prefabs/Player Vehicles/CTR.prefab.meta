@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e8423c2d0e4cfba4798fbbfceb5929ba
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276757
+  packageName: City Car Driving Simulator
+  packageVersion: 3.35
+  assetPath: Assets/CCDS/Prefabs/Player Vehicles/CTR.prefab
+  uploadId: 742001

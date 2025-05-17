@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7a55a22b88b36ca459c674fb8a89c128
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276757
+  packageName: City Car Driving Simulator
+  packageVersion: 3.35
+  assetPath: Assets/CCDS/Prefabs/Player Vehicles/Van.prefab
+  uploadId: 742001
