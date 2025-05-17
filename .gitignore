@@ -31,6 +31,9 @@
 # Gradle cache directory
 .gradle/
 
+.Resize Pro Backup/
+.Real Fast Driving_BurstDebugInformation_DoNotShip/
+
 # Assets which do not want add git
 IgnoreAssets/
 
